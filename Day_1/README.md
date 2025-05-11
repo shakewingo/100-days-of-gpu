@@ -11,7 +11,7 @@ introduced by NVIDIA in 2007, is designed to support joint CPU/GPU execution of 
 
 #
 Read CUDA by Example
-## Finish Chapter 1
+## Finish Chapter 1: Why CUDA? Why Now?
 - By the mid-1990s, the demand for consumer applications employing 3D graphics
 had escalated rapidly, setting the stage for two fairly significant developments.
 First, the release of immersive, first-person games such as Doom, Duke Nukem
